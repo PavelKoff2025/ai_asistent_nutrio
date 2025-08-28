@@ -1,5 +1,6 @@
 # Проект: "ИИ-ассистент нутрициолога" в Telegram
 Ссылка на TG-бота https://www.t.me/intensivCHB_bot
+
 Скриншоты
 ![Скриншот 1](https://github.com/PavelKoff2025/ai_asistent_nutrio/blob/main/1%D0%98%D0%BD%D1%82_%D0%94%D0%971.pdf)
 

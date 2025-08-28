@@ -4,7 +4,7 @@
 Скриншоты
 ![Скриншот 1](https://github.com/PavelKoff2025/ai_asistent_nutrio/blob/main/1%D0%98%D0%BD%D1%82_%D0%94%D0%971.pdf)
 
-![Скриншот 2]([)](https://github.com/PavelKoff2025/ai_asistent_nutrio/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-08-26%20%D0%B2%2021.46.14.png?raw=true)
+![Скриншот 2](https://github.com/PavelKoff2025/ai_asistent_nutrio/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-08-26%20%D0%B2%2021.46.14.png?raw=true)
 
 ## Описание проекта
 
